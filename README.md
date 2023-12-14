@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Visalrotanak (r07n1e)
 
+
+FYI: another github account of mine, [visalrotanak](https://github.com/visalrotanak)
 <!--
 **r07n1e/r07n1e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
