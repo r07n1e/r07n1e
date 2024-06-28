@@ -1,4 +1,8 @@
-### Hi there 👋, I'm Visalrotanak (ronnie)
+<!-- ### Hi there 👋, I'm Visalrotanak (ronnie) -->
+<h1 align="center">
+  Hi There, I'm Visalrotanak (ronnie) 
+</h1>
+
 
 <p align="center">
   <a href="https://skillicons.dev">
