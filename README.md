@@ -1,11 +1,13 @@
 <!-- ### Hi there 👋, I'm Visalrotanak (ronnie) -->
 <div align="center">
-  <h1> Hi There, I'm Visalrotanak (ronnie) </h1>
+  <h1> Hi There 👋, I'm Visalrotanak (ronnie) </h1>
   <br>
-  <p>I am primarily a backend developer, on his way to be a fullstack and devops engineer.</p>
+  <p>A full-time backend, and part-time full-stack developer. Currently working on my skills to be a DevOps Engineer.</p>
 </div>
 
-<h3 align="center">My Tech Stacks</h3>
+
+
+<!-- <h3 align="center">My Tech Stacks</h3>
 <div align="center">
   <p>Languages and Frameworks:</p>
   <a href="https://skillicons.dev">
@@ -19,7 +21,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,redis,aws,linux,ubuntu,selenium" />
   </a>
-</div>
+</div> -->
 
 <!--
 **r07n1e/r07n1e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
