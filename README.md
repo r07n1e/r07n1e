@@ -7,7 +7,7 @@
 <p align="center">
   <p>Languages and Frameworks:</p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,expressjs,bun,svelte,nextjs,php,laravel,py,django" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,expressjs,bun,svelte,nextjs,php,laravel,py,django" />
   </a>
   <p>Databases:</p>
   <a href="https://skillicons.dev">
