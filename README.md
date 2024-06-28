@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">My Tech Stacks</h3>
-<p align="center">
+<div align="center">
   <p>Languages and Frameworks:</p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,nodejs,expressjs,bun,svelte,nextjs,php,laravel,py,django,java" />
@@ -17,7 +17,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,redis,aws,selenium" />
   </a>
-</p>
+</div>
 
 <!--
 **r07n1e/r07n1e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
