@@ -2,7 +2,7 @@
 <div align="center">
   <h1> Hi There 👋, I'm Visalrotanak (ronnie) </h1>
   <br>
-  <p>A full-time backend, and part-time full-stack developer. Currently working on my skills to be a DevOps Engineer.</p>
+  <p>A full-time backend, and part-time full-stack developer. Currently working on being a DevOps Engineer.</p>
 </div>
 
 
