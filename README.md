@@ -11,7 +11,11 @@
   </a>
   <p>Databases:</p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,nosql" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,monogodb" />
+  </a>
+  <p>Tech and Tools:</p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker" />
   </a>
 </p>
 
