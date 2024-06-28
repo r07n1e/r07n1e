@@ -6,7 +6,7 @@
 <h3 align="center">My Tech Stacks</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,svelte" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,svelte,laravel" />
   </a>
 </p>
 
