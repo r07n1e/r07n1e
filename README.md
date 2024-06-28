@@ -19,6 +19,9 @@
   </a>
 </div>
 
+
+![Three dots loading animation](https://i.imgur.com/animatedDots.gif)
+
 <!--
 **r07n1e/r07n1e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
