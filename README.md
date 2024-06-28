@@ -1,7 +1,9 @@
 <!-- ### Hi there 👋, I'm Visalrotanak (ronnie) -->
-<h1 align="center">
-  Hi There, I'm Visalrotanak (ronnie) 
-</h1>
+<div align="center">
+  <h1> Hi There, I'm Visalrotanak (ronnie) </h1>
+  <br>
+  <p>I am primarily a backend developer, on his way to be a fullstack and devops engineer.</p>
+</div>
 
 <h3 align="center">My Tech Stacks</h3>
 <div align="center">
