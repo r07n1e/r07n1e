@@ -7,7 +7,7 @@
 <div align="center">
   <p>Languages and Frameworks:</p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,expressjs,bun,svelte,nextjs,php,laravel,py,django,java" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,expressjs,svelte,nextjs,php,laravel,py,java" />
   </a>
   <p>Databases:</p>
   <a href="https://skillicons.dev">
@@ -15,12 +15,9 @@
   </a>
   <p>Tech and Tools:</p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,redis,aws,selenium" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,redis,aws,linux,ubuntu,selenium" />
   </a>
 </div>
-
-
-![Three dots loading animation](https://i.imgur.com/animatedDots.gif)
 
 <!--
 **r07n1e/r07n1e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
