@@ -7,7 +7,7 @@
 <p align="center">
   <p>Languages and Frameworks:</p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,expressjs,bun,svelte,nextjs,php,laravel,py,django" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,expressjs,bun,svelte,nextjs,php,laravel,py,django,java" />
   </a>
   <p>Databases:</p>
   <a href="https://skillicons.dev">
@@ -15,7 +15,7 @@
   </a>
   <p>Tech and Tools:</p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,redis,aws" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,redis,aws,selenium" />
   </a>
 </p>
 
