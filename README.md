@@ -15,7 +15,7 @@
   </a>
   <p>Tech and Tools:</p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,redis,aws" />
   </a>
 </p>
 
