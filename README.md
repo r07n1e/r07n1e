@@ -11,7 +11,7 @@
   </a>
   <p>Databases:</p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mariadb,postgresql,sqlite," />
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,nosql" />
   </a>
 </p>
 
