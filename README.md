@@ -5,8 +5,13 @@
 
 <h3 align="center">My Tech Stacks</h3>
 <p align="center">
+  <p>Languages and Frameworks:</p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,nodejs,javascript,typescript,expressjs,svelte,laravel,py,django,mysql,postgresql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,expressjs,bun,svelte,nextjs,php,laravel,py,django" />
+  </a>
+  <p>Databases:</p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mariadb,postgresql,sqlite," />
   </a>
 </p>
 
