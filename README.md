@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋, I'm Visalrotanak (ronnie) -->
 <div align="center">
-  <h1> Hi There 👋, I'm Visalrotanak (ronnie) </h1>
+  <h1> Hi There 👋, I'm (ronnie) </h1>
   <br>
   <p>A full-time backend, and part-time full-stack developer. Currently working on being a DevOps Engineer.</p>
 </div>
